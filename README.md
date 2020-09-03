@@ -1,5 +1,5 @@
 # todo-mysql-express
 
 ```
-tidak menyediakan tutorial
+TIDAK MENYEDIAKAN TUTORIAL
 ```
